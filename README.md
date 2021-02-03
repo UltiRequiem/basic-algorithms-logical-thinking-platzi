@@ -1,7 +1,7 @@
 # Curso Basico de Algoritmos y Pensamiento Logico
-En este repositorio encontraras mis [notas](./Notas) y desarrollos de ejercicios del [Curso Basico de Algoritmos y Pensamiento Logic](https://platzi.com/clases/pensamiento-logico/) de [Platzi](https://platzi.com/r/EliazBobadilla).
+En este repositorio encontraras mis [notas](./Notas) y desarrollos de ejercicios del [Curso Basico de Algoritmos y Pensamiento Logico](https://platzi.com/clases/pensamiento-logico/) de [Platzi](https://platzi.com/r/EliazBobadilla).
 
-El Proyecto de este curso es escribir un **¡Hola, Mundo!** en 5 lenguajes diferentes.
+El Proyecto de este curso es escribir un **¡Hola, Mundo!** en 5 lenguajes diferentes.(JavaScript, Python, Java, PHP y C)
 
 
 ## Indice de las Notas:
