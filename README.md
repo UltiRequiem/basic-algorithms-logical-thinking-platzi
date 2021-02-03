@@ -12,3 +12,5 @@ Algunas de sus Redes Sociales:
 - [Youtube](https://www.youtube.com/channel/UCqiIcOoc3Gg0sHaw8Ncgqkw/videos)
 - [Instagram](https://www.instagram.com/anabelisam/?hl=es-la)
 - [Twitch](https://www.twitch.tv/anabelisam)
+
+**Si es que este repositorio te ayudo, o simplemente te gusto, considera darle una estrella.**
