@@ -4,7 +4,7 @@
 - Introduccion a los Algoritmos:
     - [La Importancia de entrenar tu pensamiento Lógico](./Notas/01_IntroduccionAlgoritmos/01_Importancia_pensamiento_logico.md)
     - [¿Qué entiende una computadora?](./Notas/01_IntroduccionAlgoritmos/02_que_entiende_una_computadora.md)
-## Datos de La Profesora:
+### Datos de La Profesora:
 [Ana Belisa Martínes](https://anabelisa.co/about/) es Backend Developer, Proyect Mananger y Master Coah en Platzi Master.
 
 Algunas de sus Redes Sociales: 
