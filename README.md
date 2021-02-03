@@ -2,8 +2,8 @@
 
 ## Indice de las Notas:
 - Introduccion a los Algoritmos:
-    -[La Importancia de entrenar tu pensamiento Lógico]()
-    -[¿Qué entiende una computadora?]()
+    - [La Importancia de entrenar tu pensamiento Lógico]()
+    - [¿Qué entiende una computadora?]()
 ## Datos de La Profesora:
 [Ana Belisa Martínes](https://anabelisa.co/about/) es Backend Developer, Proyect Mananger y Master Coah en Platzi Master.
 
