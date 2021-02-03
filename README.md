@@ -10,6 +10,7 @@ El Proyecto de este curso es escribir un [**¡Hola, Mundo!**](https://github.com
     - [¿Qué es el sistema binario?](./Notas/01_IntroduccionAlgoritmos/03_sistema_binario.md)
     - [Procesos Mentales](04_requerimientos_procesos_mentales.md)
 - Tipos de datos y operadores lógicos:
+    - [¿Qué son variables, constantes y tipos de datos?](./Notas/02_tipos_De_datos_operadores_logicos/05_variables_constantes_tipos_datos.md)
 - Estructuras de control:
 - Encapsula tu código en funciones:
 - Traduce tus algoritmos a lenguajes de programación:
