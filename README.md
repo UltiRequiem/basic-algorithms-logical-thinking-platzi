@@ -8,6 +8,8 @@ El Proyecto de este curso es escribir un [**¡Hola, Mundo!**](https://github.com
 - Introduccion a los Algoritmos:
     - [La Importancia de entrenar tu pensamiento Lógico](./Notas/01_IntroduccionAlgoritmos/01_Importancia_pensamiento_logico.md)
     - [¿Qué entiende una computadora?](./Notas/01_IntroduccionAlgoritmos/02_que_entiende_una_computadora.md)
+    - [¿Qué es el sistema binario?](./Notas/01_IntroduccionAlgoritmos/03_sistema_binario.md)
+    - [Procesos Mentales](04_requerimientos_procesos_mentales.md)
 ### Datos de La Profesora:
 [Ana Belisa Martínes](https://anabelisa.co/about/) es Backend Developer, Proyect Mananger y Master Coah en Platzi Master.
 
