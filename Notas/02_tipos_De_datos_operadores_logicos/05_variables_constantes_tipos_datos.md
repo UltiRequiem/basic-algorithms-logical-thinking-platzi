@@ -1,6 +1,10 @@
 ## Variables y Constantes
 Una variable es aquella que **puede cambiar su valor**, en cambio una constante es donde **persiste el valor**.
 
+Una analogía muy usada para describir a las variables es una Caja:
+
+Una caja puede **guardar cualquier cosa dentro**, puedes **meter y sacar cosas**, etc. 
+
 ## Tipos de Datos
 ![Imagen](./../src/03.webp)
 
