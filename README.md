@@ -1,10 +1,16 @@
 # Curso Basico de Algoritmos y Pensamiento Logico
 
-En este repositorio encontraras mis [notas](./Notas) y desarrollos de ejercicios del [Curso Basico de Algoritmos y Pensamiento Logico](https://platzi.com/clases/pensamiento-logico/) de [Platzi](https://platzi.com/r/EliazBobadilla).
+En este repositorio encontraras mis [notas](./Notas) y
+desarrollos de ejercicios del
+[Curso Basico de Algoritmos y Pensamiento Logico](https://platzi.com/clases/pensamiento-logico)
+de [Platzi](https://platzi.com/r/EliazBobadilla).
 
-El Proyecto de este curso es escribir un [**¡Hola, Mundo!**](https://github.com/EliazBobadilla/Hola-Mundo) en 5 lenguajes diferentes.(JavaScript, [Python](https://github.com/EliazBobadilla/Curso-Basico-de-Python), Java, PHP y C)
+El Proyecto de este curso es escribir un
+[**¡Hola, Mundo!**](https://github.com/EliazBobadilla/Hola-Mundo)
+en 5 lenguajes diferentes.
+(JavaScript, [Python](https://github.com/EliazBobadilla/Curso-Basico-de-Python), Java, PHP y C)
 
-## Indice de las Notas:
+## Indice de las Notas
 
 - Introduccion a los Algoritmos:
   - [La Importancia de entrenar tu pensamiento Lógico](./Notas/01_IntroduccionAlgoritmos/01_Importancia_pensamiento_logico.md)
@@ -16,10 +22,14 @@ El Proyecto de este curso es escribir un [**¡Hola, Mundo!**](https://github.com
 - Estructuras de control:
 - Encapsula tu código en funciones:
 - Traduce tus algoritmos a lenguajes de programación:
-- Conclusiones ## Datos de La Profesora:
-  [Ana Belisa Martínes](https://anabelisa.co/about/) es Backend Developer, Proyect Mananger y Master Coah en Platzi Master.
+- Conclusiones
 
-Algunas de sus Redes Sociales:
+## Datos de La Profesora
+
+[Ana Belisa Martínes](https://anabelisa.co/about/) es Backend Developer,
+Proyect Mananger y Master Coach en Platzi Master.
+
+Algunas de sus Redes Sociales
 
 - [Pagina Personal](https://anabelisa.co)
 - [GitHub](https://github.com/anabelisam)
