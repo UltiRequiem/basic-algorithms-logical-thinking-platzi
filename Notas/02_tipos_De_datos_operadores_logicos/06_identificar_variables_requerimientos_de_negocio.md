@@ -34,5 +34,5 @@
 **Hablar por teléfono:**
 
 - Número de teléfono (int)
-- Cobertura 
+- Cobertura
 - Crédito (float)
