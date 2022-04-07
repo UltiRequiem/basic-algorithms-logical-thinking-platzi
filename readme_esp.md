@@ -1,14 +1,15 @@
 # Curso Basico de Algoritmos y Pensamiento Logico
 
-En este repositorio encontraras mis [notas](./Notas) y
-desarrollos de ejercicios del
+En este repositorio encontraras mis [notas](./Notas) y desarrollos de ejercicios
+del
 [Curso Basico de Algoritmos y Pensamiento Logico](https://platzi.com/clases/pensamiento-logico)
 de [Platzi](https://platzi.com/r/EliazBobadilla).
 
 El Proyecto de este curso es escribir un
-[**¡Hola, Mundo!**](https://github.com/EliazBobadilla/Hola-Mundo)
-en 5 lenguajes diferentes.
-(JavaScript, [Python](https://github.com/EliazBobadilla/Curso-Basico-de-Python), Java, PHP y C)
+[**¡Hola, Mundo!**](https://github.com/EliazBobadilla/Hola-Mundo) en 5 lenguajes
+diferentes. (JavaScript,
+[Python](https://github.com/EliazBobadilla/Curso-Basico-de-Python), Java, PHP y
+C)
 
 ## Indice de las Notas
 
@@ -26,8 +27,8 @@ en 5 lenguajes diferentes.
 
 ## Datos de La Profesora
 
-[Ana Belisa Martínes](https://anabelisa.co/about/) es Backend Developer,
-Proyect Mananger y Master Coach en Platzi Master.
+[Ana Belisa Martínes](https://anabelisa.co/about/) es Backend Developer, Proyect
+Mananger y Master Coach en Platzi Master.
 
 Algunas de sus Redes Sociales
 
@@ -40,4 +41,5 @@ Algunas de sus Redes Sociales
 - [Instagram](https://www.instagram.com/anabelisam/?hl=es-la)
 - [Twitch](https://www.twitch.tv/anabelisam)
 
-**Si es que este repositorio te ayudo, o simplemente te gusto, considera darle una estrella.**
+**Si es que este repositorio te ayudo, o simplemente te gusto, considera darle
+una estrella.**

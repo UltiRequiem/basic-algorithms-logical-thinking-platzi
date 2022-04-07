@@ -1,6 +1,7 @@
 # Metodología para construir un algoritmo: requerimientos y proceso mental
 
-Un algoritmo son pasos para encontrar una solución a problemas simples o complejos.
+Un algoritmo son pasos para encontrar una solución a problemas simples o
+complejos.
 
 ### Características de un algoritmo:
 

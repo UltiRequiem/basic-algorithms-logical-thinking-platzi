@@ -1,10 +1,14 @@
 # ¿Qué entiende una computadora?
 
-Las computadoras trabajan con información ([bytes](https://es.wikipedia.org/wiki/Byte)) y esta es representada con el [sistema binario](https://es.wikipedia.org/wiki/Sistema_binario).EL sistema binario es un sistem para contar que solo usa los **1** y **0**.
+Las computadoras trabajan con información
+([bytes](https://es.wikipedia.org/wiki/Byte)) y esta es representada con el
+[sistema binario](https://es.wikipedia.org/wiki/Sistema_binario).EL sistema
+binario es un sistem para contar que solo usa los **1** y **0**.
 
 ## ¿Como nacio la Computadora?
 
-La computadora nace de la necesidad humana de hacer las tareas diaras de forma mas rapida y eficiente.
+La computadora nace de la necesidad humana de hacer las tareas diaras de forma
+mas rapida y eficiente.
 
 #### Materiales Complementarios:
 

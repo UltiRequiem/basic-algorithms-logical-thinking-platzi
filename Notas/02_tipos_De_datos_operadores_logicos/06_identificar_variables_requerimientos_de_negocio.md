@@ -1,6 +1,7 @@
 # Identifica las variables según los requerimientos de negocio:
 
-**Reto:** Identifica que variables se necesitan para resolver los siguientes problemas.([Problemas Aqui](https://platzi.com/clases/2218-pensamiento-logico/35165-identifica-las-variables-segun-los-requerimientos-/))
+**Reto:** Identifica que variables se necesitan para resolver los siguientes
+problemas.([Problemas Aqui](https://platzi.com/clases/2218-pensamiento-logico/35165-identifica-las-variables-segun-los-requerimientos-/))
 
 ### Soluciones
 

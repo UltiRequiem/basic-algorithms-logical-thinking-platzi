@@ -1,7 +1,6 @@
 # Números y operaciones matemáticas básicas
 
-Existen varios tipos de datos numéricos.
-⠀⠀⠀⠀⠀⠀⠀⠀
+Existen varios tipos de datos numéricos. ⠀⠀⠀⠀⠀⠀⠀⠀
 
 - **int:** Son los números enteros, aquellos que no tienen decimal (1, 4, 10)
 

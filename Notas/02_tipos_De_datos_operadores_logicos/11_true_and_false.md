@@ -1,6 +1,7 @@
 # True y false: booleanos y tablas de la verdad
 
-💡 Las tablas de verdad nos permiten analizar expresiones matemáticas y determinar su valor de verdad, es decir si nuestro razonamiento es válido o no.
+💡 Las tablas de verdad nos permiten analizar expresiones matemáticas y
+determinar su valor de verdad, es decir si nuestro razonamiento es válido o no.
 
 ![](./../src/08.webp)
 
